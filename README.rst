@@ -1,6 +1,6 @@
 ARA: Ansible Run Analysis
 =========================
-.. image:: doc/source/_static/ara-with-icon.png
+.. image:: doc/source/_static/preview2.png
 
 tl;dr
 -----
